@@ -1,4 +1,4 @@
-=== Pluginception === 
+﻿=== Rename Users=== 
 Contributors: Florian Schießl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NX8D8HYLP9HYS
 Tags: user, rename, login
