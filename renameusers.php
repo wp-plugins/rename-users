@@ -3,7 +3,7 @@
  * Plugin Name: Rename Users
  * Plugin URI: http://ifs-net.de
  * Description: Allow Admins to rename user login names
- * Version: 1.0
+ * Version: 1.1
  * Author: Florian Schiessl
  * Author URI: http://ifs-net.de
  * License: A "Slug" license name e.g. GPL2

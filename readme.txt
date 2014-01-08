@@ -1,4 +1,4 @@
-﻿=== Rename Users=== 
+﻿=== Rename Users === 
 Contributors: Florian Schießl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NX8D8HYLP9HYS
 Tags: user, rename, login
@@ -32,6 +32,9 @@ Wordpress normally does not allow renaming usernames. You should now what you do
 What this plugin does is that the fields "user_login" and "user_nicename" are overwritten with specified values for a selected user account.
 
 == Changelog ==
+
+= 1.1 =
+* Fixed error in readme file (wrong title)
 
 = 1.0 = 
 * First version.
