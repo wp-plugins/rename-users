@@ -1,6 +1,6 @@
 ﻿=== Rename Users === 
 Contributors: Florian Schießl
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NX8D8HYLP9HYS
+Donate link: http://ifs-net.de/donate.php
 Tags: user, rename, login
 Requires at least: 3.0
 Tested up to: 3.8
